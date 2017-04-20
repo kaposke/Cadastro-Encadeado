@@ -1,0 +1,7 @@
+﻿  Cadastro.cpp
+c:\temp\visual studio 2015\projects\exerciciocadastro\exerciciocadastro\cadastro.cpp(16): warning C4018: '>': signed/unsigned mismatch
+c:\temp\visual studio 2015\projects\exerciciocadastro\exerciciocadastro\cadastro.cpp(32): warning C4018: '<': signed/unsigned mismatch
+c:\temp\visual studio 2015\projects\exerciciocadastro\exerciciocadastro\cadastro.cpp(44): warning C4018: '>': signed/unsigned mismatch
+c:\temp\visual studio 2015\projects\exerciciocadastro\exerciciocadastro\cadastro.cpp(56): warning C4018: '>': signed/unsigned mismatch
+  ExercicioCadastro.vcxproj -> C:\Temp\Visual Studio 2015\Projects\ExercicioCadastro\Debug\ExercicioCadastro.exe
+  ExercicioCadastro.vcxproj -> C:\Temp\Visual Studio 2015\Projects\ExercicioCadastro\Debug\ExercicioCadastro.pdb (Partial PDB)
